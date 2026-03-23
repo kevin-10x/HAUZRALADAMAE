@@ -1,31 +1,39 @@
-# Kevin's Portfolio
+# Kevin Kipkoech's Portfolio
 
-Welcome to my portfolio! This site showcases my projects and professional experience.
+Hi! I'm **Kevin Kipkoech**, an IT student passionate about **Web Development, Databases, and Cybersecurity**.
 
-## About Me
-Hello! I'm Kevin, a passionate developer with a keen interest in creating innovative solutions and delivering impactful results. I have experience in software development, design, and web development, and I enjoy working on challenging projects that push my skills to the next level.
+This portfolio showcases my projects, skills, and provides a downloadable CV. Explore my work, download my CV, or get in touch with me via the contact form.
 
 ## Projects
-### Project 1: Awesome Project
-- **Description**: A brief overview of the awesome project you worked on.
-- **Technologies Used**: HTML, CSS, JavaScript
-- **Link**: [Live Demo](#)
 
-### Project 2: Another Great Project
-- **Description**: A brief overview of this project.
-- **Technologies Used**: HTML, CSS, JavaScript
-- **Link**: [View Repository](#)
+* **Salon Scheduler** – PostgreSQL & Bash script project for managing salon appointments.
+* **World Cup Database** – Relational database project with queries and reporting.
+* **Cash Register App** – JavaScript project simulating transactions and change calculations.
 
 ## Skills
-- **Languages**: JavaScript, HTML, CSS
-- **Tools & Technologies**: Git, VS Code, GitHub Pages
-- **Areas of Expertise**: Web Development, Frontend Design
+
+* Programming: C / C++ / JavaScript
+* Web Development: HTML, CSS, JS
+* Databases: PostgreSQL / SQL
+* Linux & Git
+* Problem Solving & Logical Thinking
 
 ## Contact
-Feel free to reach out for collaborations or inquiries!
-- **GitHub**: [@kevin-10x](https://github.com/kevin-10x)
-- **Email**: kevin@example.com
-- **LinkedIn**: [Your LinkedIn Profile](#)
+
+* Email: [kipkoechkev6@gmail.com](mailto:kipkoechkev6@gmail.com)
+* Phone: 0716606232
+* LinkedIn: [linkedin.com/in/kevin-kipkoech](https://www.linkedin.com/in/kevin-kipkoech)
+* GitHub: [github.com/kevin-10x](https://github.com/kevin-10x)
+* Twitter: [twitter.com/kevin_kipkoech](https://twitter.com/kevin_kipkoech)
+
+## Live Portfolio
+
+[View my live portfolio](https://kevin-10x.github.io/HAUZRALADAMAE/)
+
+## Download CV
+
+You can download my CV [here](./Kevin_Kipkoech_CV.pdf) or contact me directly at kipkoechkev6@gmail.com.
 
 ---
-*Portfolio last updated: March 23, 2026*
+
+*Last updated: March 23, 2026*
