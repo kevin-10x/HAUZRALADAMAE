@@ -1,0 +1,31 @@
+Kevin Kipkoech
+
+Email: kevin.kipkoech@example.com
+Phone: +1234567890
+LinkedIn: linkedin.com/in/kevinkipkoech
+
+Objective:
+Dedicated professional seeking to leverage expertise in project management and software development to contribute to innovative solutions.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, 2020
+
+Skills:
+- Project Management
+- Software Development
+- Team Collaboration
+- Agile Methodologies
+
+Experience:
+Software Developer
+ABC Corp, 2020 - Present
+- Developed and maintained applications.
+- Collaborated with cross-functional teams to define and design new features.
+- Conducted code reviews and provided mentorship to junior developers.
+
+Certifications:
+- Certified Project Management Professional (PMP)
+- AWS Certified Solutions Architect
+
+References available upon request.
